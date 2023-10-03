@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamid Javaheri @SHJavaheri.
 - 👀 I’m interested in programming and development.
 - 🌱 I’m currently learning Computer and Software Engineering.
-- 💞️ I’m looking to collaborate on making a game, replica or new, to fill out my portfolio as my goal is to join Riot Games in their jounrey.
+- 💞️ I’m looking to collaborate on making a game, replica or new, to fill out my portfolio as my goal is to join and/or create a company on their journey to success!
 - 📫 How to reach me: Send an email to SeyedHamidJavaheri@gmail.com.
 
 <!---
